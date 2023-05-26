@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprovingExistingApplication", "ImprovingExistingApplication\ImprovingExistingApplication.csproj", "{97C98CFF-2A31-4132-9C56-5FFAC69B1570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprovingExistingApplicationRefactored", "..\..\refactored\ImprovingExistingApplicationRefactored\ImprovingExistingApplicationRefactored.csproj", "{62CC0EDF-0F37-49BD-B92D-0AD89E2508AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C98CFF-2A31-4132-9C56-5FFAC69B1570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C98CFF-2A31-4132-9C56-5FFAC69B1570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C98CFF-2A31-4132-9C56-5FFAC69B1570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C98CFF-2A31-4132-9C56-5FFAC69B1570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62CC0EDF-0F37-49BD-B92D-0AD89E2508AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62CC0EDF-0F37-49BD-B92D-0AD89E2508AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62CC0EDF-0F37-49BD-B92D-0AD89E2508AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62CC0EDF-0F37-49BD-B92D-0AD89E2508AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACC7684-16E5-426D-8568-F449AFE1A0A9}
+	EndGlobalSection
+EndGlobal
