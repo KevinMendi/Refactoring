@@ -1,0 +1,108 @@
+# Visual Studio files
+.vscode/
+.vs/
+*_i.c
+*_p.c
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider files
+.idea/
+
+# Compiled files
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio Code directory
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# macOS specific files
+.DS_Store
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider auto-generated folders
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
